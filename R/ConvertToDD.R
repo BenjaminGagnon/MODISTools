@@ -1,3 +1,4 @@
+# covert to DD
 ConvertToDD <-
 function(XY, FileSep = NULL, LatColName, LongColName)
 {
